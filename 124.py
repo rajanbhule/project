@@ -4,8 +4,8 @@ import json
 import matplotlib.pyplot as plt
 
 # --- 1. PAGE SETUP ---
-st.set_page_config(page_title="ALF Engineering Dashboard", page_icon="⚙️", layout="wide")
-st.title("⚙️ ABC Engineering Pvt. Ltd.")
+st.set_page_config(page_title="PressIntel Engineering Dashboard", page_icon="⚙️", layout="wide")
+st.title("⚙️ PressIntel Engineering Pvt. Ltd.")
 st.subheader("IIoT Press Machine Performance & Efficiency Dashboard")
 
 # --- 2. HELPER FUNCTIONS ---
